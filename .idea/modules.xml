@@ -2,8 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/NewAddress/NewAddress.iml" filepath="$PROJECT_DIR$/NewAddress/NewAddress.iml" />
       <module fileurl="file://$PROJECT_DIR$/Person/Person.iml" filepath="$PROJECT_DIR$/Person/Person.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PhoneNumbers/PhoneNumbers.iml" filepath="$PROJECT_DIR$/PhoneNumbers/PhoneNumbers.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Practic3.iml" filepath="$PROJECT_DIR$/.idea/Practic3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Shirt/Shirt.iml" filepath="$PROJECT_DIR$/Shirt/Shirt.iml" />
     </modules>
   </component>
 </project>
