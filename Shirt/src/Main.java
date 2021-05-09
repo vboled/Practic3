@@ -13,9 +13,10 @@ public class Main {
         shirts[8] = "S009,Green T-Shirt,Green,S";
         shirts[9] = "S010,Orange T-Shirt,Orange,S";
         shirts[10] = "S011,Maroon Polo Shirt,Maroon,S";
-        for (String shirt : shirts) {
-            Shirt s = new Shirt(shirt);
-            System.out.println(s.toString());
+        Shirt[] s = new Shirt[shirts.length];
+        for (int i = 0; i < s.length; i++) {
+            s[i] = new Shirt(shirts[i]);
+            System.out.println(s[i].toString());
             System.out.println("______________________________");
         }
     }
